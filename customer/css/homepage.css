@@ -1,0 +1,81 @@
+body{
+height: 800px;
+padding: 0;
+margin:0;
+}
+
+#show-food{
+
+width:1310px;
+height:600px;
+margin-top:110px;
+margin-bottom: 0px;
+margin-left: auto;
+margin-right:auto;
+padding: 0;
+
+
+}
+
+#show-left
+{
+	width:500px;
+	height:600px;
+    margin:0;
+    padding: 0;
+    float: left;
+
+   
+}
+
+#show-right
+{
+	width:500px;
+	height:600px;
+	margin: 0;
+	padding: 0;
+	float:right;
+}
+
+#show-text{
+	width:300px;
+	margin:0 5px 0 0;
+	padding:0;
+    float:left;
+}
+
+#show-motto{
+
+text-align: center;
+font-size: 35px;
+color:#f00;
+font-weight: bold;
+margin-top: 200px;
+
+}
+
+#show-description
+{
+	text-align: left;
+	font-size: 20px;
+	font-weight: 600;
+	margin-left:5%;
+	margin-top: 10px;
+}
+
+#show-all{
+	text-align: center;
+	font-size: 29px;
+	font-weight: 600;
+	border:4px solid #f00;
+	padding: 2px;
+	margin-top: 10px;
+	cursor: pointer;
+	margin-left: 2px;
+}
+
+#show-all-a{
+	text-decoration: none;
+	cursor: pointer;
+	color: black;
+}

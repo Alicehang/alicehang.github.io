@@ -1,0 +1,52 @@
+#all-pro-show-noodle-category{
+width: 1310px;
+height:950px;
+margin-top:110px;
+margin-bottom:20px;
+margin-left:auto;
+margin-right: auto;
+padding:0;
+
+
+
+}
+
+ .all-pro-show-noodle-title-c{
+ 	 width: 1310px;
+     height:160px;
+     margin:0;
+     padding:0;
+     float:left;
+ 
+ }
+.all-pro-show-noodle-title-label-c{
+ 	 width: 1310px;
+     /*height:80px;*/
+     margin: 0;
+     padding-top:70px;
+     padding-bottom: 15px;
+     font-size:50px;
+     font-weight: bold;
+     text-align: center;
+    
+ }
+ .all-pro-noodle-items-c
+{
+      width:436.5px;
+    height:362px;
+     margin-bottom:20px;
+     padding:0;
+     float:left;
+     text-align:center;
+     /*background-color: yellow;*/
+    
+}
+.special-sale-price{
+    color:red;
+    font-size:1.5em;
+    font-weight: bold;
+}
+.past-price{
+    text-decoration: line-through;
+    line-height: 1.5px;
+}
